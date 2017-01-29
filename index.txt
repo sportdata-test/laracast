@@ -1,4 +1,4 @@
 First row
 Third row
 
-Colum 1
+Column 1
